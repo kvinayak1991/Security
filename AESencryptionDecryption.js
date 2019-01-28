@@ -1,4 +1,5 @@
-//JS CODE with npm install crypto-js --save in angular 6
+//JS CODE with npm install crypto-js --save in angular 6 or just include    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
+
 
     var message = "password";
     var key = "aesEncryptionKey"; //length=22
