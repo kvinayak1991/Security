@@ -1,4 +1,6 @@
-var message = "password";
+//JS CODE with npm install crypto-js --save in angular 6
+
+    var message = "password";
     var key = "aesEncryptionKey"; //length=22
     var iv  = "encryptionIntVec"; //length=22
     
